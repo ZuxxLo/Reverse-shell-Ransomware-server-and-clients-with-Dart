@@ -4,7 +4,7 @@ This project demonstrates a proof-of-concept implementation of a Reverse Shell a
 # Features
 - Reverse Shell: Allows the server to execute commands on the client machine.
 - Ransomware: Encrypts/Decrypts files on the client machine once connected to the server using Advanced Encryption Standard (AES).
-- Cross-Platform: Windows version and android version.
+- Multi-Platform: Windows version and Android version developed with Flutter.
  
 # Disclaimer
 This project is for educational purposes only. The author does not condone the use of this software for malicious purposes. Use this software responsibly and only in environments where you have explicit permission to do so.
