@@ -1,7 +1,7 @@
 import 'dart:io';
 
-import 'package:server/models/client.dart';
-import 'package:server/models/server.dart';
+import '../models/client.dart';
+import '../models/server.dart';
 
 String ip = "127.0.0.1";
 int port = 8000;

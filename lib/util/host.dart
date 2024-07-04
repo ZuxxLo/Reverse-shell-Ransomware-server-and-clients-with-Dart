@@ -1,7 +1,7 @@
 import 'dart:io';
 import 'dart:typed_data';
 
-import './util/manipulate_data.dart';
+import 'manipulate_data.dart';
 
 class Host {
   late Socket socket;
